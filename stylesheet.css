@@ -17,3 +17,72 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+a {
+	text-decoration: none;
+	color: #00ffcc;
+}
+
+.date {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	color: #00ffcc;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	top: 1%;
+}
+
+.viewall {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	color: #00ffcc;
+	position: fixed;
+	left: 0.01%;
+	top: 45%;
+	text-align: center;
+	width: 15%;
+	-webkit-transform: rotate(-90deg); 
+	-moz-transform: rotate(-90deg);
+}
+
+.about {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	color: #00ffcc;
+	position: fixed;
+	right: 0.01%;
+	top: 45%;
+	text-align: center;
+	width: 15%;
+	-webkit-transform: rotate(-270deg); 
+	-moz-transform: rotate(-270deg);
+}
+
+.container {
+	font-family: 'oregonregular', Arial, sans-serif;
+	color: white;
+	font-size: 70px;
+	width: 50%;
+	height: 50%;
+	margin: 20% auto;
+	text-align: center;
+}
+
+.category {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	color: #00ffcc;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	bottom: 1%;
+}
