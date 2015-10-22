@@ -541,6 +541,7 @@
     },
     {
         "date": "3-1",
+        "day": "March 1",
         "name": "Adopt From a Pet Shelter.",
         "url": "http://www.wikihow.com/Adopt-a-Pet-from-a-Shelter",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/dog.jpg",
@@ -549,6 +550,7 @@
     },
     {
         "date": "3-2",
+        "day": "March 2",
         "name": "Sell Yourself in Any Job Interview.",
         "url": "http://www.wikihow.com/Sell-Yourself-in-Any-Job-Interview",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -557,6 +559,7 @@
     },
     {
         "date": "3-3",
+        "day": "March 3",
         "name": "Wake Up On Time.",
         "url": "http://www.wikihow.com/Wake-Up-On-Time",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bedroom.jpg",
@@ -565,6 +568,7 @@
     },
     {
         "date": "3-4",
+        "day": "March 4",
         "name": "Go Grocery Shopping.",
         "url": "http://www.wikihow.com/Go-Grocery-Shopping",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fruit.jpg",
@@ -573,6 +577,7 @@
     },
     {
         "date": "3-5",
+        "day": "March 5",
         "name": "Improve Your Typing Speed.",
         "url": "http://www.wikihow.com/Improve-Typing-Speed",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -581,6 +586,7 @@
     },
     {
         "date": "3-6",
+        "day": "March 6",
         "name": "Find the Right Career.",
         "url": "http://www.helpguide.org/articles/work-career/finding-the-right-career.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -589,6 +595,7 @@
     },
     {
         "date": "3-7",
+        "day": "March 7",
         "name": "Oven Broil.",
         "url": "http://www.wikihow.com/Oven-Broil",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/meat.jpg",
@@ -597,6 +604,7 @@
     },
     {
         "date": "3-8",
+        "day": "March 8",
         "name": "Survive Jury Duty.",
         "url": "http://www.wikihow.com/Survive-Jury-Duty",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -605,6 +613,7 @@
     },
     {
         "date": "3-9",
+        "day": "March 9",
         "name": "Maintain a Balanced Diet.",
         "url": "http://www.wikihow.com/Maintain-a-Balanced-Diet",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fruit.jpg",
@@ -613,6 +622,7 @@
     },
     {
         "date": "3-10",
+        "day": "March 10",
         "name": "Remove stains.",
         "url": "http://www.wikihow.com/Get-Stains-out-of-Clothes",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bedroom.jpg",
@@ -621,6 +631,7 @@
     },
     {
         "date": "3-11",
+        "day": "March 11",
         "name": "Break Your Lease.",
         "url": "http://www.wikihow.com/Break-a-Lease",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/apartment.jpg",
@@ -629,6 +640,7 @@
     },
     {
         "date": "3-12",
+        "day": "March 12",
         "name": "Stop Micromanaging.",
         "url": "http://business.time.com/2013/08/16/stop-micromanagement-madness/",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -637,6 +649,7 @@
     },
     {
         "date": "3-13",
+        "day": "March 13",
         "name": "Life tips.",
         "url": "http://abercrombier.tumblr.com/post/56624382395/1-there-are-plenty-of-ways-to-enter-a-pool-the",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bonfire.jpg",
@@ -645,6 +658,7 @@
     },
     {
         "date": "3-14",
+        "day": "March 14",
         "name": "Avoid Getting a Ticket.",
         "url": "http://www.wikihow.com/Get-a-Warning-Instead-of-a-Ticket",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/car.jpg",
@@ -653,6 +667,7 @@
     },
     {
         "date": "3-15",
+        "day": "March 15",
         "name": "Draft a Roommate Agreement.",
         "url": "http://www.wikihow.com/Draft-a-Roommate-Agreement",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -661,6 +676,7 @@
     },
     {
         "date": "3-16",
+        "day": "March 16",
         "name": "Barbecue.",
         "url": "http://www.wikihow.com/Barbecue",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/meat.jpg",
@@ -669,6 +685,7 @@
     },
     {
         "date": "3-17",
+        "day": "March 17",
         "name": "Make an Exciting Cocktail.",
         "url": "http://www.sheknows.com/food-and-recipes/articles/1076773/st-patricks-day-cocktail-recipes",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/alcohol.jpg",
@@ -677,6 +694,7 @@
     },
     {
         "date": "3-18",
+        "day": "March 18",
         "name": "Order a Prescription.",
         "url": "https://www.nlm.nih.gov/medlineplus/ency/article/001956.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
@@ -685,6 +703,7 @@
     },
     {
         "date": "3-19",
+        "day": "March 19",
         "name": "Adjust Your Sleep Schedule.",
         "url": "http://www.wikihow.com/Adjust-Your-Sleep-Schedule",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bedroom.jpg",
@@ -693,6 +712,7 @@
     },
     {
         "date": "3-20",
+        "day": "March 20",
         "name": "Handle the Police Knocking on Your Door.",
         "url": "http://www.umich.edu/~aclu/handbook/blank4a.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -701,6 +721,7 @@
     },
     {
         "date": "3-21",
+        "day": "March 21",
         "name": "Decline a Job Offer.",
         "url": "http://www.wikihow.com/Decline-a-Job-Offer",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -709,6 +730,7 @@
     },
     {
         "date": "3-22",
+        "day": "March 22",
         "name": "Clean a Dryer Vent.",
         "url": "http://www.wikihow.com/Clean-a-Clothes-Dryer-Vent",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -717,6 +739,7 @@
     },
     {
         "date": "3-23",
+        "day": "March 23",
         "name": "Ask For Favors.",
         "url": "http://www.wikihow.com/Ask-for-a-Favor",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/friends.jpg",
@@ -725,6 +748,7 @@
     },
     {
         "date": "3-24",
+        "day": "March 24",
         "name": "Caulk a Shower.",
         "url": "http://www.wikihow.com/Caulk-a-Shower",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bedroom.jpg",
@@ -733,6 +757,7 @@
     },
     {
         "date": "3-25",
+        "day": "March 25",
         "name": "Plan Your Wedding.",
         "url": "http://www.wikihow.com/Plan-Your-Wedding",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/suit.jpg",
@@ -741,6 +766,7 @@
     },
     {
         "date": "3-26",
+        "day": "March 26",
         "name": "Stop Saying the Word “Like.”",
         "url": "http://www.wikihow.com/Stop-Saying-the-Word-%22Like%22",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -749,6 +775,7 @@
     },
     {
         "date": "3-27",
+        "day": "March 27",
         "name": "Debit vs. Credit.",
         "url": "http://www.diffen.com/difference/Credit_Card_vs_Debit_Card",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -757,6 +784,7 @@
     },
     {
         "date": "3-28",
+        "day": "March 28",
         "name": "Sublease.",
         "url": "http://www.wikihow.com/Sublease",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/apartment.jpg",
@@ -765,6 +793,7 @@
     },
     {
         "date": "3-29",
+        "day": "March 29",
         "name": "Resign From a Job.",
         "url": "http://www.wikihow.com/Resign-from-a-Job",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -773,6 +802,7 @@
     },
     {
         "date": "3-30",
+        "day": "March 30",
         "name": "Be Content With Your Life.",
         "url": "http://www.wikihow.com/Be-Content-With-Your-Life",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -781,6 +811,7 @@
     },
     {
         "date": "3-31",
+        "day": "March 31",
         "name": "Take Action After a Car Accident.",
         "url": "http://www.wikihow.com/Take-Action-After-a-Car-Accident",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/car.jpg",
@@ -789,6 +820,7 @@
     },
     {
         "date": "4-1",
+        "day": "April 1",
         "name": "Not today!",
         "url": "http://www.boredpanda.com/funny-april-fools-pranks/",
         "image": "https://youtu.be/dQw4w9WgXcQ?autoplay=1",
@@ -797,6 +829,7 @@
     },
     {
         "date": "4-2",
+        "day": "April 2",
         "name": "Treat a Minor Burn.",
         "url": "http://www.wikihow.com/Treat-Minor-Burns",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fire.jpg",
@@ -805,6 +838,7 @@
     },
     {
         "date": "4-3",
+        "day": "April 3",
         "name": "Wash Delicates.",
         "url": "http://www.wikihow.com/Wash-Delicates-in-the-Laundry",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bedroom.jpg",
@@ -813,6 +847,7 @@
     },
     {
         "date": "4-4",
+        "day": "April 4",
         "name": "Make a Good First Impression.",
         "url": "http://www.wikihow.com/Make-a-Good-First-Impression",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/friends.jpg",
@@ -821,6 +856,7 @@
     },
     {
         "date": "4-5",
+        "day": "April 5",
         "name": "Pack a Suitcase.",
         "url": "http://www.realsimple.com/work-life/travel/best-way-pack-suitcase",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/map.jpg",
@@ -829,6 +865,7 @@
     },
     {
         "date": "4-6",
+        "day": "April 6",
         "name": "Negotiate.",
         "url": "http://www.wikihow.com/Negotiate",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/notes.jpg",
@@ -837,6 +874,7 @@
     },
     {
         "date": "4-7",
+        "day": "April 7",
         "name": "Calm Down.",
         "url": "http://www.wikihow.com/Calm-Down",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/solo.jpg",
@@ -845,6 +883,7 @@
     },
     {
         "date": "4-8",
+        "day": "April 8",
         "name": "Stop Being Lazy.",
         "url": "http://www.wikihow.com/Stop-Being-Lazy",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -853,6 +892,7 @@
     },
     {
         "date": "4-9",
+        "day": "April 9",
         "name": "Know Your Rights When You Get Pulled Over.",
         "url": "http://www.businessinsider.com/rights-when-the-cops-pull-you-over-2014-1",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -861,6 +901,7 @@
     },
     {
         "date": "4-10",
+        "day": "April 10",
         "name": "Avoid a Bank Inactivity Fee.",
         "url": "http://www.wikihow.com/Avoid-a-Bank-Inactivity-Fee",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -869,6 +910,7 @@
     },
     {
         "date": "4-11",
+        "day": "April 11",
         "name": "Meditate Without Doing Nothing.",
         "url": "http://www.lifehack.org/articles/lifestyle/6-alternative-forms-meditation-for-people-who-hate-doing-nothing.html",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -877,6 +919,7 @@
     },
     {
         "date": "4-12",
+        "day": "April 12",
         "name": "Establish Credit.",
         "url": "http://www.wikihow.com/Establish-Credit",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -885,6 +928,7 @@
     },
     {
         "date": "4-13",
+        "day": "April 13",
         "name": "Wire Transfer Money.",
         "url": "http://www.wikihow.com/Wire-Transfer-Money",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -893,6 +937,7 @@
     },
     {
         "date": "4-14",
+        "day": "April 14",
         "name": "Be Assertive Without Being Arrogant.",
         "url": "http://www.wikihow.com/Be-Assertive-Without-Being-Arrogant",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/solo.jpg",
@@ -901,6 +946,7 @@
     },
     {
         "date": "4-15",
+        "day": "April 15",
         "name": "Add Value to Your Home.",
         "url": "http://www.wikihow.com/Add-Value-to-Your-Home",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -909,6 +955,7 @@
     },
     {
         "date": "4-16",
+        "day": "April 16",
         "name": "Remove Pet Hair.",
         "url": "http://www.wikihow.com/Remove-Pet-Hair",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/dog.jpg",
@@ -917,6 +964,7 @@
     },
     {
         "date": "4-17",
+        "day": "April 17",
         "name": "Change a Dryer Belt.",
         "url": "http://www.wikihow.com/Change-a-Clothes-Dryer-Belt",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -925,6 +973,7 @@
     },
     {
         "date": "4-18",
+        "day": "April 18",
         "name": "Plan a Move.",
         "url": "http://www.wikihow.com/Plan-a-Move",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -933,6 +982,7 @@
     },
     {
         "date": "4-19",
+        "day": "April 19",
         "name": "Invest.",
         "url": "http://www.wikihow.com/Invest",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -941,6 +991,7 @@
     },
     {
         "date": "4-20",
+        "day": "April 20",
         "name": "Have an Effective Handshake.",
         "url": "http://www.wikihow.com/Have-an-Effective-Handshake",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/notes.jpg",
@@ -949,6 +1000,7 @@
     },
     {
         "date": "4-21",
+        "day": "April 21",
         "name": "Stop Biting Your Nails.",
         "url": "http://health.howstuffworks.com/skin-care/nail-care/tips/5-ways-to-prevent-nail-biting.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/map.jpg",
@@ -957,6 +1009,7 @@
     },
     {
         "date": "4-22",
+        "day": "April 22",
         "name": "Safely Use an Ax.",
         "url": "http://survivial-training.wonderhowto.com/how-to/use-axe-69356",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fire.jpg",
@@ -965,6 +1018,7 @@
     },
     {
         "date": "4-23",
+        "day": "April 23",
         "name": "Buy Groceries on a Budget.",
         "url": "http://www.wikihow.com/Buy-Groceries-on-a-Budget",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fruit.jpg",
@@ -973,6 +1027,7 @@
     },
     {
         "date": "4-24",
+        "day": "April 24",
         "name": "Look Approachable.",
         "url": "http://www.wikihow.com/Look-Approachable",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bonfire.jpg",
@@ -981,6 +1036,7 @@
     },
     {
         "date": "4-25",
+        "day": "April 25",
         "name": "Fix a Running Toilet.",
         "url": "http://www.wikihow.com/Fix-a-Running-Toilet",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/water.jpg",
@@ -989,6 +1045,7 @@
     },
     {
         "date": "4-26",
+        "day": "April 26",
         "name": "Prevent Burglary.",
         "url": "http://www.wikihow.com/Prevent-Residential-Burglary",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -997,6 +1054,7 @@
     },
     {
         "date": "4-27",
+        "day": "April 27",
         "name": "Listen More Than You Talk.",
         "url": "http://www.wikihow.com/Listen-More-Than-You-Talk",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/friends.jpg",
@@ -1005,6 +1063,7 @@
     },
     {
         "date": "4-28",
+        "day": "April 28",
         "name": "Avoid Probate.",
         "url": "http://www.wikihow.com/Avoid-Probate",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -1013,6 +1072,7 @@
     },
     {
         "date": "4-29",
+        "day": "April 29",
         "name": "Host a Great Dinner Party.",
         "url": "http://www.wikihow.com/Be-a-Good-Hostess-at-Your-Dinner-Party",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fruit.jpg",
@@ -1021,6 +1081,7 @@
     },
     {
         "date": "4-30",
+        "day": "April 30",
         "name": "Cook Pasta.",
         "url": "http://www.wikihow.com/Cook-Pasta",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/pasta.jpg",
@@ -1029,6 +1090,7 @@
     },
     {
         "date": "5-1",
+        "day": "May 1",
         "name": "Clear Nasal Congestion.",
         "url": "http://www.wikihow.com/Clear-Nasal-Congestion",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
@@ -1037,6 +1099,7 @@
     },
     {
         "date": "5-2",
+        "day": "May 2",
         "name": "Find the Right Pet.",
         "url": "http://www.wikihow.com/Find-the-Right-Pet",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/dog.jpg",
@@ -1045,6 +1108,7 @@
     },
     {
         "date": "5-3",
+        "day": "May 3",
         "name": "Find a Job Working From Home.",
         "url": "http://www.wikihow.com/Find-a-Job-Working-from-Home",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -1053,6 +1117,7 @@
     },
     {
         "date": "5-4",
+        "day": "May 4",
         "name": "Questions to Ask When Apartment Hunting.",
         "url": "http://www.apartmentguide.com/blog/10-questions-to-ask-when-you-visit-apartments/",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/apartment.jpg",
@@ -1061,6 +1126,7 @@
     },
     {
         "date": "5-5",
+        "day": "May 5",
         "name": "Avoid a Hangover.",
         "url": "http://cocktails.about.com/od/healthsafety/a/hngovr_101a_3.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
@@ -1069,6 +1135,7 @@
     },
     {
         "date": "5-6",
+        "day": "May 6",
         "name": "Vote.",
         "url": "http://www.wikihow.com/Vote",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -1077,6 +1144,7 @@
     },
     {
         "date": "5-7",
+        "day": "May 7",
         "name": "Clean Out a Humidifier.",
         "url": "http://www.wikihow.com/Clean-out-a-Humidifier",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -1085,6 +1153,7 @@
     },
     {
         "date": "5-8",
+        "day": "May 8",
         "name": "Travel By Train.",
         "url": "http://www.wikihow.com/Travel-by-Train",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/map.jpg",
@@ -1093,6 +1162,7 @@
     },
     {
         "date": "5-9",
+        "day": "May 9",
         "name": "Know the Heimlich Maneuver.",
         "url": "https://www.nlm.nih.gov/medlineplus/ency/article/000047.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/friends.jpg",
@@ -1101,6 +1171,7 @@
     },
     {
         "date": "5-10",
+        "day": "May 10",
         "name": "Do You Really Want to Open a Bar Tab?",
         "url": "http://www.cooljunkie.com/Articles/9167/Why-You-Shouldnt-Open-a-Bar-Tab",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/alcohol.jpg",
@@ -1109,6 +1180,7 @@
     },
     {
         "date": "5-11",
+        "day": "May 11",
         "name": "Stay Slim and Still Drink Alcohol.",
         "url": "http://www.wikihow.com/Stay-Slim-and-Still-Drink-Alcohol",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/workout.jpg",
@@ -1117,6 +1189,7 @@
     },
     {
         "date": "5-12",
+        "day": "May 12",
         "name": "Reduce Your Utility Bill.",
         "url": "http://www.wikihow.com/Reduce-Your-Utility-Bills",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -1125,6 +1198,7 @@
     },
     {
         "date": "5-13",
+        "day": "May 13",
         "name": "Appreciate Diversity and Individuality.",
         "url": "http://www.wikihow.com/Appreciate-Diversity-and-Individuality",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bonfire.jpg",
@@ -1133,6 +1207,7 @@
     },
     {
         "date": "5-14",
+        "day": "May 14",
         "name": "Clean Walls.",
         "url": "http://www.wikihow.com/Clean-Walls",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -1141,6 +1216,7 @@
     },
     {
         "date": "5-15",
+        "day": "May 15",
         "name": "Buy Stocks.",
         "url": "http://www.wikihow.com/Buy-Stocks",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -1149,6 +1225,7 @@
     },
     {
         "date": "5-16",
+        "day": "May 16",
         "name": "Read a Compass.",
         "url": "http://www.learn-orienteering.org/old/lesson1.html",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/map.jpg",
@@ -1157,6 +1234,7 @@
     },
     {
         "date": "5-17",
+        "day": "May 17",
         "name": "Keep Up With Your Haircuts.",
         "url": "http://www.goodhousekeeping.com/beauty/hair/a33448/haircuts-how-often-trim-hair",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/workout.jpg",
@@ -1165,6 +1243,7 @@
     },
     {
         "date": "5-18",
+        "day": "May 18",
         "name": "Give Good Directions.",
         "url": "http://www.wikihow.com/Give-Directions",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/map.jpg",
@@ -1173,6 +1252,7 @@
     },
     {
         "date": "5-19",
+        "day": "May 19",
         "name": "Endorse a Check.",
         "url": "http://www.wikihow.com/Endorse-a-Check",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -1181,6 +1261,7 @@
     },
     {
         "date": "5-20",
+        "day": "May 20",
         "name": "Understand Different Types of Bank Accounts.",
         "url": "http://www.wikihow.com/Understand-Different-Types-of-Bank-Accounts",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -1189,6 +1270,7 @@
     },
     {
         "date": "5-21",
+        "day": "May 21",
         "name": "Register to Vote.",
         "url": "http://www.wikihow.com/Register-to-Vote-in-the-United-States",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -1197,6 +1279,7 @@
     },
     {
         "date": "5-22",
+        "day": "May 22",
         "name": "Remember Names Easier.",
         "url": "http://thinksimplenow.com/productivity/7-hacks-to-remember-any-name",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/friends.jpg",
@@ -1205,6 +1288,7 @@
     },
     {
         "date": "5-23",
+        "day": "May 23",
         "name": "Bring These to Every Doctor’s Appointment.",
         "url": "http://www.nextavenue.org/10-things-you-should-bring-every-doctors-appointment/",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
@@ -1213,6 +1297,7 @@
     },
     {
         "date": "5-24",
+        "day": "May 24",
         "name": "Use an ATM to Deposit Money.",
         "url": "http://www.wikihow.com/Use-an-ATM-to-Deposit-Money",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -1221,6 +1306,7 @@
     },
     {
         "date": "5-25",
+        "day": "May 25",
         "name": "Cure Alcohol Breath.",
         "url": "http://www.wikihow.com/Cure-Alcohol-Breath",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/alcohol.jpg",
@@ -1229,6 +1315,7 @@
     },
     {
         "date": "5-26",
+        "day": "May 26",
         "name": "Open a Roth IRA Account.",
         "url": "http://www.wikihow.com/Open-a-Roth-IRA-Account",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/notes.jpg",
@@ -1237,6 +1324,7 @@
     },
     {
         "date": "5-27",
+        "day": "May 27",
         "name": "Cook Dinner.",
         "url": "http://www.wikihow.com/Cook",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/meat.jpg",
@@ -1245,6 +1333,7 @@
     },
     {
         "date": "5-28",
+        "day": "May 28",
         "name": "Leave your Childhood Traumas Behind.",
         "url": "http://www.helpguide.org/articles/ptsd-trauma/emotional-and-psychological-trauma.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/beach.jpg",
@@ -1253,6 +1342,7 @@
     },
     {
         "date": "5-29",
+        "day": "May 29",
         "name": "Love Yourself.",
         "url": "http://40.media.tumblr.com/a7e4646749fdc76f54811a3fb19f170e/tumblr_mn69fjB7Uj1qaxlo0o1_500.jpg",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -1261,6 +1351,7 @@
     },
     {
         "date": "5-30",
+        "day": "May 30",
         "name": "Clean Your Stove.",
         "url": "http://www.wikihow.com/Clean-a-Stove",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -1269,6 +1360,7 @@
     },
     {
         "date": "5-31",
+        "day": "May 31",
         "name": "Mail a Letter.",
         "url": "http://www.wikihow.com/Mail-a-Letter",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/notes.jpg",
@@ -1277,6 +1369,7 @@
     },
     {
         "date": "6-1",
+        "day": "June 1",
         "name": "Reduce Dust.",
         "url": "http://www.wikihow.com/Reduce-Dust-in-Your-House",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bedroom.jpg",
@@ -1285,6 +1378,7 @@
     },
     {
         "date": "6-2",
+        "day": "June 2",
         "name": "Clean Your Microwave.",
         "url": "http://www.wikihow.com/Clean-a-Microwave",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -1293,6 +1387,7 @@
     },
     {
         "date": "6-3",
+        "day": "June 3",
         "name": "Clean Comforters.",
         "url": "http://www.wikihow.com/Clean-Comforters",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bedroom.jpg",
@@ -1301,6 +1396,7 @@
     },
     {
         "date": "6-4",
+        "day": "June 4",
         "name": "Get Rid of Stink Bugs.",
         "url": "http://www.wikihow.com/Get-Rid-of-Stink-Bugs",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -1309,6 +1405,7 @@
     },
     {
         "date": "6-5",
+        "day": "June 5",
         "name": "Kill Bugs.",
         "url": "http://www.wikihow.com/Kill-Household-Bugs",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/apartment.jpg",
@@ -1317,6 +1414,7 @@
     },
     {
         "date": "6-6",
+        "day": "June 6",
         "name": "Clean Furniture.",
         "url": "http://www.wikihow.com/Clean-Furniture",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -1325,6 +1423,7 @@
     },
     {
         "date": "6-7",
+        "day": "June 7",
         "name": "Stop Procrastinating.",
         "url": "http://www.realsimple.com/work-life/life-strategies/time-management/how-to-stop-procrastinating",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -1333,6 +1432,7 @@
     },
     {
         "date": "6-8",
+        "day": "June 8",
         "name": "Know When You Are Contagious.",
         "url": "http://www.wikihow.com/Tell-when-You-Are-Contagious",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
@@ -1341,6 +1441,7 @@
     },
     {
         "date": "6-9",
+        "day": "June 9",
         "name": "Change a Flat Tire.",
         "url": "http://www.ehow.com/video_1863_change-flat-tire.html",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/car.jpg",
@@ -1349,6 +1450,7 @@
     },
     {
         "date": "6-10",
+        "day": "June 10",
         "name": "Hold a Yard Sale.",
         "url": "http://www.wikihow.com/Hold-a-Great-Yard-Sale",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -1357,6 +1459,7 @@
     },
     {
         "date": "6-11",
+        "day": "June 11",
         "name": "Make a Travel Budget.",
         "url": "http://www.independenttraveler.com/travel-budget-calculator",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/map.jpg",
@@ -1365,6 +1468,7 @@
     },
     {
         "date": "6-12",
+        "day": "June 12",
         "name": "Research the Company Before an Interview.",
         "url": "http://www.wikihow.com/Research-the-Company-Before-Your-Job-Interview",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/keyboard.jpg",
@@ -1373,6 +1477,7 @@
     },
     {
         "date": "6-13",
+        "day": "June 13",
         "name": "Prepare for a Tornado.",
         "url": "http://www.wikihow.com/Prepare-for-a-Tornado",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -1381,6 +1486,7 @@
     },
     {
         "date": "6-14",
+        "day": "June 14",
         "name": "Write a Petition.",
         "url": "http://www.wikihow.com/Write-a-Petition",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -1389,6 +1495,7 @@
     },
     {
         "date": "6-15",
+        "day": "June 15",
         "name": "Open a Bank Account.",
         "url": "http://www.wikihow.com/Open-a-Bank-Account",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/books.jpg",
@@ -1397,6 +1504,7 @@
     },
     {
         "date": "6-16",
+        "day": "June 16",
         "name": "Make Successful Traveling Plans.",
         "url": "http://www.wikihow.com/Make-Successful-Traveling-Plans",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/travel.jpg",
@@ -1405,6 +1513,7 @@
     },
     {
         "date": "6-17",
+        "day": "June 17",
         "name": "Find an Apartment.",
         "url": "http://www.wikihow.com/Find-an-Apartment",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/apartment.jpg",
@@ -1413,6 +1522,7 @@
     },
     {
         "date": "6-18",
+        "day": "June 18",
         "name": "Select a Good Watermelon.",
         "url": "http://www.wikihow.com/Select-a-Watermelon",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fruit.jpg",
@@ -1421,6 +1531,7 @@
     },
     {
         "date": "6-19",
+        "day": "June 19",
         "name": "Motivate Yourself to Work Out.",
         "url": "http://www.wikihow.com/Motivate-Yourself-to-Work-Out",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/workout.jpg",
@@ -1429,6 +1540,7 @@
     },
     {
         "date": "6-20",
+        "day": "June 20",
         "name": "Get Renter’s Insurance.",
         "url": "http://www.wikihow.com/Get-Renters-Insurance",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/home.jpg",
@@ -1437,6 +1549,7 @@
     },
     {
         "date": "6-21",
+        "day": "June 21",
         "name": "House Cleaning Checklist.",
         "url": "http://www.mollymaid.com/cleaning-institute/schedules-charts-checklists/house-cleaning-checklist.aspx",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/room.jpg",
@@ -1445,6 +1558,7 @@
     },
     {
         "date": "6-22",
+        "day": "June 22",
         "name": "Learn to Forgive.",
         "url": "http://www.wikihow.com/Forgive-Someone",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/friends.jpg",
@@ -1453,6 +1567,7 @@
     },
     {
         "date": "6-23",
+        "day": "June 23",
         "name": "Ship a Package.",
         "url": "http://www.wikihow.com/Ship-a-Package-at-the-Post-Office",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -1461,6 +1576,7 @@
     },
     {
         "date": "6-24",
+        "day": "June 24",
         "name": "Defend Yourself if Attacked.",
         "url": "http://www.wikihow.com/Defend-Yourself-if-Attacked",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fire.jpg",
@@ -1469,6 +1585,7 @@
     },
     {
         "date": "6-25",
+        "day": "June 25",
         "name": "Get a Copy of Your Birth Certificate.",
         "url": "http://www.wikihow.com/Get-a-New-Birth-Certificate",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -1477,6 +1594,7 @@
     },
     {
         "date": "6-26",
+        "day": "June 26",
         "name": "Quit Being A Pushover.",
         "url": "http://www.artofmanliness.com/2013/02/12/how-to-be-assertive/",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -1485,6 +1603,7 @@
     },
     {
         "date": "6-27",
+        "day": "June 27",
         "name": "Know Your Blood Type.",
         "url": "http://www.wikihow.com/Determine-Your-Blood-Type",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
@@ -1493,6 +1612,7 @@
     },
     {
         "date": "6-28",
+        "day": "June 28",
         "name": "Should You Get a Roommate?",
         "url": "http://apartments.about.com/od/roommatesneighbors/a/roommatesornot.htm",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/apartment.jpg",
@@ -1501,6 +1621,7 @@
     },
     {
         "date": "6-29",
+        "day": "June 29",
         "name": "Stop Mail for Previous Residents.",
         "url": "http://www.wikihow.com/Stop-Mail-for-Previous-Residents",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/flag.jpg",
@@ -1509,6 +1630,7 @@
     },
     {
         "date": "6-30",
+        "day": "June 30",
         "name": "Turn Down a Drink.",
         "url": "http://www.wikihow.com/Turn-Down-a-Drink",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/alcohol.jpg",
@@ -1517,6 +1639,7 @@
     },
     {
         "date": "7-1",
+        "day": "July 1",
         "name": "Prepare Beef Ribs.",
         "url": "http://www.wikihow.com/Prepare-Beef-Ribs",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/meat.jpg",
@@ -1525,6 +1648,7 @@
     },
     {
         "date": "7-2",
+        "day": "July 2",
         "name": "Build Lean Muscle.",
         "url": "http://www.wikihow.com/Build-Lean-Muscle",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/workout.jpg",
@@ -1533,6 +1657,7 @@
     },
     {
         "date": "7-3",
+        "day": "July 3",
         "name": "Extend the Life of Your Car.",
         "url": "http://www.wikihow.com/Extend-the-Life-of-Your-Car",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/car.jpg",
@@ -1541,6 +1666,7 @@
     },
     {
         "date": "7-4",
+        "day": "July 4",
         "name": "Build a Fire.",
         "url": "http://www.wikihow.com/Build-a-Fire",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/fire.jpg",
@@ -1549,6 +1675,7 @@
     },
     {
         "date": "7-5",
+        "day": "July 5",
         "name": "Deliver a Good Sales Pitch.",
         "url": "http://www.wikihow.com/Deliver-a-Good-Sales-Pitch",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/notes.jpg",
@@ -1557,6 +1684,7 @@
     },
     {
         "date": "7-6",
+        "day": "July 6",
         "name": "Turn Your Life Around.",
         "url": "http://www.wikihow.com/Turn-Your-Life-Around",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bike.jpg",
@@ -1565,6 +1693,7 @@
     },
     {
         "date": "7-7",
+        "day": "July 7",
         "name": "Sober Up Fast.",
         "url": "http://www.wikihow.com/Sober-Up-Fast",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/alcohol.jpg",
@@ -1573,6 +1702,7 @@
     },
     {
         "date": "7-8",
+        "day": "July 8",
         "name": "Grill Kabobs.",
         "url": "http://www.wikihow.com/Grill-Kabobs",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/meat.jpg",
@@ -1581,6 +1711,7 @@
     },
     {
         "date": "7-9",
+        "day": "July 9",
         "name": "Respect the Elderly.",
         "url": "http://www.wikihow.com/Respect-Older-People",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/friends.jpg",
@@ -1589,6 +1720,7 @@
     },
     {
         "date": "7-10",
+        "day": "July 10",
         "name": "Make Friends.",
         "url": "http://www.wikihow.com/Make-Friends-as-an-Adult",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/bonfire.jpg",
@@ -1597,6 +1729,7 @@
     },
     {
         "date": "7-11",
+        "day": "July 11",
         "name": "Cancel a Doctor’s Appointment.",
         "url": "http://www.wikihow.com/Cancel-a-Doctor’s-Appointment",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
@@ -1605,6 +1738,7 @@
     },
     {
         "date": "7-12",
+        "day": "July 12",
         "name": "Survive Your Messy Roommate.",
         "url": "http://www.wikihow.com/Survive-a-Messy-Roommate",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/apartment.jpg",
@@ -1613,6 +1747,7 @@
     },
     {
         "date": "7-13",
+        "day": "July 13",
         "name": "Set a Formal Dinner Table.",
         "url": "http://www.wikihow.com/Arrange-a-Place-Setting-for-a-Formal-Dinner",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/pasta.jpg",
@@ -1621,6 +1756,7 @@
     },
     {
         "date": "7-14",
+        "day": "July 14",
         "name": "Get Rid of Puffy Eyes.",
         "url": "http://www.wikihow.com/Get-Rid-of-Puffy-Eyes-from-Crying",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/master/img/sick.jpg",
