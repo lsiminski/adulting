@@ -1,8 +1,8 @@
 $.getJSON('list.json', function(data) { 
 
   var d = new Date();
-  var mo = d getMonth();
-  var da = d getDate ();
+  var mo = d.getMonth();
+  var da = d.getDate ();
   var moda = mo + 1 +"-" + da;
     
   $.each(data, function(data) {
