@@ -5,5 +5,6 @@ $.getJSON('list.json', function(data) {
   $("#list_name p").text(randomItem.name);
   $("#list_date p").text(randomItem.date);
   $("#list_category p").text(randomItem.category);
+  $("#list_url p").text(randomItem.url);
     
 });
