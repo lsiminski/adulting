@@ -6,6 +6,6 @@ $.getJSON('list.json', function(data) {
   $("#list_day p").text(randomItem.day);
   $("#list_category p").text(randomItem.category);
   $("#list_url p").text(randomItem.url);
-  $("html").css("background-image",randomItem.image);
+  $("body.random").css("background-image","url(" + randomItem.image + ")");
     
 });

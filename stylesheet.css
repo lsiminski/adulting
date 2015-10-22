@@ -10,8 +10,11 @@
     font-style: normal;
 }
 
-html { 
-  background: url(https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/water.jpg) no-repeat center center fixed; 
+body { 
+  background-image: url(https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/water.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
