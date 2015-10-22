@@ -28,11 +28,11 @@ a {
 	text-decoration: none;
 	color: #00ffcc;
 	opacity: 1;
-	transition: all .1s linear;
+	transition: all .1s ease;
 }
 
 a:hover {
-	opacity: .8;
+	opacity: .1;
 }
 
 .day {
