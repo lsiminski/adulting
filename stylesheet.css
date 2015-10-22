@@ -41,7 +41,7 @@ a {
 	top: 1%;
 }
 
-.view {
+.viewall {
 	font-family: 'Montserrat';
 	font-size: 10px;
 	text-transform: uppercase;
@@ -49,6 +49,21 @@ a {
 	color: #00ffcc;
 	position: fixed;
 	left: 0.01%;
+	top: 45%;
+	text-align: center;
+	/* width: 15%; */
+	-webkit-transform: rotate(-90deg); 
+	-moz-transform: rotate(-90deg);
+}
+
+.viewtoday {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	color: #00ffcc;
+	position: fixed;
+	left: -1%;
 	top: 45%;
 	text-align: center;
 	/* width: 15%; */
@@ -84,6 +99,40 @@ a {
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%); 
 	padding-bottom: 40px;
+}
+
+.large_list {
+	font-family: 'oregonregular', Arial, sans-serif;
+	color: white;
+	font-size: 30px;
+	letter-spacing: 1.5px;
+	text-align: left;
+	position: absolute;
+	width: 55%;
+	top: 0;
+	left: 50%;
+	margin-top: 2%;
+	margin-bottom: 8%;
+	-webkit-transform: translate(-50%,0); 
+	-moz-transform: translate(-50%,-0); 
+	transform: translate(-50%,0); 
+}
+
+p {
+	margin-bottom: 0; 
+	margin-top: 15px;
+}
+
+.subtitle {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	color: #00ffcc;
+}
+
+.large_list a {
+	color: white;
 }
 
 .container a {
