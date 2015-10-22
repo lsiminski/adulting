@@ -27,6 +27,12 @@ body {
 a {
 	text-decoration: none;
 	color: #00ffcc;
+	opacity: 1;
+	transition: all .3s linear;
+}
+
+a:hover {
+	opacity: .3;
 }
 
 .day {
@@ -104,11 +110,11 @@ a {
 .large_list {
 	font-family: 'oregonregular', Arial, sans-serif;
 	color: white;
-	font-size: 30px;
-	letter-spacing: 1.5px;
+	font-size: 24px;
+	letter-spacing: 1.6px;
 	text-align: left;
 	position: absolute;
-	width: 55%;
+	width: 50%;
 	top: 0;
 	left: 50%;
 	margin-top: 2%;
@@ -120,7 +126,7 @@ a {
 
 p {
 	margin-bottom: 0; 
-	margin-top: 15px;
+	margin-top: 10px;
 }
 
 .subtitle {
