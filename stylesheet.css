@@ -44,7 +44,7 @@ a:hover {
 	position: fixed;
 	text-align: center;
 	width: 100%;
-	top: 10px;
+	top: 9px;
 }
 
 .viewall {
@@ -190,5 +190,5 @@ p {
 	position: fixed;
 	text-align: center;
 	width: 100%;
-	bottom: 10px;
+	bottom: 14px;
 }
