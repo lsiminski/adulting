@@ -141,6 +141,22 @@ a:hover {
 	transform: translate(-50%,0); 
 }
 
+.aboutpage {
+	font-family: 'oregonregular', Arial, sans-serif;
+	font-size: 26px;
+	letter-spacing: 1.6px;
+	text-align: left;
+	position: absolute;
+	width: 50%;
+	top: 0;
+	left: 50%;
+	margin-top: 6%;
+	margin-bottom: 9%;
+	-webkit-transform: translate(-50%,0); 
+	-moz-transform: translate(-50%,-0); 
+	transform: translate(-50%,0);
+}
+
 p {
 	margin-bottom: 0; 
 	margin-top: 10px;
