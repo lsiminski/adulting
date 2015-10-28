@@ -137,6 +137,25 @@ p {
 	color: #00ffcc;
 }
 
+.abouttitle {
+	color: #00ffcc;
+}
+
+.aboutcontent {
+	font-family: 'Montserrat';
+	font-size: 12px;
+	/* text-transform: uppercase; */
+	letter-spacing: 1.5px;
+	line-height: 26px;
+/* 	font-weight: 200; */
+	color: white;
+	text-align: justify;
+}
+
+.contentlink {
+	color: #00ffcc;
+}
+
 .large_list a {
 	color: white;
 }
