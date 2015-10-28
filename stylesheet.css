@@ -147,17 +147,14 @@ a:hover {
 	letter-spacing: 1.6px;
 	text-align: left;
 	position: absolute;
-/* 	width: 50%; */
-	top: 50%;
+	width: 50%;
+	top: 0;
 	left: 50%;
-/*
 	margin-top: 6%;
 	margin-bottom: 9%;
-*/
-	-webkit-transform: translate(-50%,-50%); 
-	-moz-transform: translate(-50%,-50%); 
-	transform: translate(-50%,-50%);
-	padding-bottom: 40px;
+	-webkit-transform: translate(-50%,-50); 
+	-moz-transform: translate(-50%,-50); 
+	transform: translate(-50%,0);
 }
 
 p {
