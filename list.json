@@ -2710,21 +2710,21 @@
     },
     {
         "date": "10-28",
-        "day": "October 28",
-        "name": "Send a Money Order.",
-        "url": "http://www.wikihow.com/Send-a-Money-Order-Through-the-Post-Office",
-        "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/books.jpg",
-        "category": "Money",
-        "background": "books"
-    },
-    {
-        "date": "10-29",
         "day": "October 29",
         "name": "Clean Your Eyeglasses.",
         "url": "http://www.wikihow.com/Clean-Eyeglasses",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/water.jpg",
         "category": "Miscellaneous",
         "background": "water"
+    },
+    {
+        "date": "10-29",
+        "day": "October 28",
+        "name": "Send a Money Order.",
+        "url": "http://www.wikihow.com/Send-a-Money-Order-Through-the-Post-Office",
+        "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/books.jpg",
+        "category": "Money",
+        "background": "books"
     },
     {
         "date": "10-30",
