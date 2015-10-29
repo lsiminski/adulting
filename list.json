@@ -5,7 +5,7 @@
         "name": "Stick to Your Resolutions.",
         "url": "http://www.wikihow.com/Stick-to-a-New-Year's-Resolution",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/workout.jpg",
-        "category": "New Year's",
+        "category": "Holiday",
         "background": "workout"
     },
     {
@@ -401,7 +401,7 @@
         "name": "Be Your Own Valentine.",
         "url": "http://www.wikihow.com/Be-Happy-Being-Single-on-Valentine's-Day",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/workout.jpg",
-        "category": "Valentine's Day",
+        "category": "Holiday",
         "background": "workout"
     },
     {
@@ -689,7 +689,7 @@
         "name": "Make an Exciting Cocktail.",
         "url": "http://www.sheknows.com/food-and-recipes/articles/1076773/st-patricks-day-cocktail-recipes",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/alcohol.jpg",
-        "category": "St. Patrick's Day",
+        "category": "Holiday",
         "background": "alcohol"
     },
     {
@@ -824,7 +824,7 @@
         "name": "Not today!",
         "url": "http://www.boredpanda.com/funny-april-fools-pranks/",
         "image": "https://youtu.be/dQw4w9WgXcQ?autoplay=1",
-        "category": "April Fools Day",
+        "category": "Holiday",
         "background": "rickroll"
     },
     {
@@ -2710,7 +2710,7 @@
     },
     {
         "date": "10-28",
-        "day": "October 29",
+        "day": "October 28",
         "name": "Clean Your Eyeglasses.",
         "url": "http://www.wikihow.com/Clean-Eyeglasses",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/water.jpg",
@@ -2719,7 +2719,7 @@
     },
     {
         "date": "10-29",
-        "day": "October 28",
+        "day": "October 29",
         "name": "Send a Money Order.",
         "url": "http://www.wikihow.com/Send-a-Money-Order-Through-the-Post-Office",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/books.jpg",
@@ -2741,7 +2741,7 @@
         "name": "Celebrate!",
         "url": "http://www.chicagonow.com/new-abides/2013/10/5-fun-ways-adults-can-celebrate-halloween",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/bonfire.jpg",
-        "category": "Halloween",
+        "category": "Holiday",
         "background": "bonfire"
     },
     {
@@ -3227,7 +3227,7 @@
         "name": "React to Bad Gifts.",
         "url": "http://www.wikihow.com/React-to-a-Gift-You-Do-Not-Like",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/clothes.jpg",
-        "category": "Christmas",
+        "category": "Holiday",
         "background": "clothes"
     },
     {
@@ -3236,7 +3236,7 @@
         "name": "Write Thank-You Notes.",
         "url": "http://www.wikihow.com/Write-a-Thank-You-Note",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/notes.jpg",
-        "category": "Christmas",
+        "category": "Holiday",
         "background": "notes"
     },
     {
@@ -3290,7 +3290,7 @@
         "name": "Don't Drink & Drive.",
         "url": "http://www.wikihow.com/Avoid-Drinking-and-Driving-on-New-Year's-Eve",
         "image": "https://raw.githubusercontent.com/lsiminski/adulting/gh-pages/img/alcohol.jpg",
-        "category": "New Year's Eve",
+        "category": "Holiday",
         "background": "alcohol"
     }
 ]
