@@ -145,13 +145,14 @@ a:hover {
 	font-family: 'oregonregular', Arial, sans-serif;
 	font-size: 26px;
 	letter-spacing: 1.6px;
+	font-weight: 300;
 	text-align: left;
 	position: absolute;
 	width: 50%;
 	top: 0;
 	left: 50%;
-	margin-top: 6%;
-	margin-bottom: 9%;
+	margin-top: 8%;
+	margin-bottom: 11%;
 	-webkit-transform: translate(-50%,-50); 
 	-moz-transform: translate(-50%,-50); 
 	transform: translate(-50%,0);
@@ -176,10 +177,10 @@ p {
 
 .aboutcontent {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	/* text-transform: uppercase; */
 	letter-spacing: 1.5px;
-	line-height: 26px;
+	line-height: 24px;
 /* 	font-weight: 200; */
 	color: white;
 	text-align: justify;
